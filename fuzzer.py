@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+
+# author : a4chr0f
+
 import re
 import sys
 from requests import Session
